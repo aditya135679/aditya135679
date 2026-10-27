@@ -94,7 +94,7 @@ Because I've worked on both the admin and development sides of the platform, I c
 I'm always happy to talk Salesforce, Apex, LWC and platform design.
 
 📧 [aditya135679@gmail.com](mailto:aditya135679@gmail.com)
-🐙 [github.com/aditya-6394](https://github.com/aditya135679)
+🐙 [github.com/aditya135679](https://github.com/aditya135679)
 
 <p align="center">
   <i>Thanks for stopping by! ⭐</i>
